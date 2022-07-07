@@ -21,7 +21,7 @@
 - Bootstrap
 
 ### Implantação do Projecto
-- **Vercel**
+- **Vercel**: https://biz-ezone.vercel.app/
 
 ### Autor
 ***
